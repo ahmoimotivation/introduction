@@ -1,6 +1,6 @@
-// 将你的 Instagram 主页网址填在 instagramUrl，页面底部按钮就会出现。
+// Instagram 链接取自 Ah Moi Motivation 的公开 bio 页面。
 window.MOI_SITE = {
-  instagramUrl: "",
+  instagramUrl: "https://www.instagram.com/ahmoi_motivation/",
   portrait: "assets/portrait/portrait.jpg",
   investmentPhotos: [
     { group: "million", src: "assets/investment/08-million-assets.png", alt: "Moi 展示账户约一百万令吉资产的照片", caption: "29岁时 · 投资资产累积1百万" },
